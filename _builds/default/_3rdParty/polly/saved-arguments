@@ -1,0 +1,1 @@
+"cmake" "-H." "-B/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default" "-DCMAKE_TOOLCHAIN_FILE=/home/kadochnikov/Avokado1024/workspace/projects/lab07/tools/polly/default.cmake" "-DCMAKE_INSTALL_PREFIX=/home/kadochnikov/Avokado1024/workspace/projects/lab07/_install/default"

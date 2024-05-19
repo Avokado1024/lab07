@@ -1,0 +1,9 @@
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/print.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/package.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/package_source.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/edit_cache.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/rebuild_cache.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/list_install_components.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/install.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/install/local.dir
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_builds/default/CMakeFiles/install/strip.dir

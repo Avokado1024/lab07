@@ -1,0 +1,3 @@
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_install/default/lib/libprint.a
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_install/default/cmake/print-config.cmake
+/home/kadochnikov/Avokado1024/workspace/projects/lab07/_install/default/cmake/print-config-noconfig.cmake
